@@ -1,0 +1,9 @@
+{
+    "EC2": [
+        {
+            "InstanceId": "i-0eb56b18c847b83a5",
+            "Tipo": "t3.micro",
+            "Estado": "running"
+        }
+    ]
+}

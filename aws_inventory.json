@@ -1,0 +1,20 @@
+{
+    "EC2": [
+        {
+            "InstanceId": "i-0eb56b18c847b83a5",
+            "Tipo": "t3.micro",
+            "Estado": "running"
+        }
+    ],
+    "S3": [
+        {
+            "Nombre": "prueba-limpieza-angie-2026"
+        }
+    ],
+    "Lambda": [
+        {
+            "Nombre": "MonitoringFunction",
+            "Runtime": "python3.10"
+        }
+    ]
+}
